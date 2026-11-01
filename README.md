@@ -6,8 +6,9 @@ y los textos del menú.
 
 | Sitio | Link |
 |---|---|
-| Menú para clientes | https://hackerjj.github.io/vayabaya/ |
-| Material para Uber Eats | https://hackerjj.github.io/vayabaya/uber.html |
+| Menú para clientes | http://vayabaya.foo.ng/ |
+| Material para Uber Eats | https://vayabaya.foo.ng/uber.html |
+| Menú en PDF | https://github.com/andvelasco/vayabaya/blob/main/menu/vaya-baya-menu.pdf |
 | Calculadora de costos y precios | https://hackerjj.github.io/proyectobowl/ |
 
 ## Estructura
@@ -16,6 +17,7 @@ y los textos del menú.
 menu/
   descripciones.md    texto oficial de cada bowl (para leer y editar)
   descripciones.json  el mismo texto en formato que leen el menú y la página de Uber
+  vaya-baya-menu.pdf  menú completo en PDF (A4): para Uber Eats, imprimir o compartir
 logos/
   frambuesa/          fondo frambuesa, letras vainilla
   vainilla/           fondo vainilla, letras frambuesa
